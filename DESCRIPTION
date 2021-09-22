@@ -1,0 +1,12 @@
+Package: windtools
+Type: Package
+Title: Tools for Management Wind Data
+Version: 0.1.0
+Authors@R: person("Novvier", "Uscuchagua", email = "novvier@outlook.com.pe", role = c("aut", "cre"))
+Author: Novvier Uscuchagua [aut, cre]
+Maintainer: Novvier Uscuchagua <novvier@outlook.com.pe>
+Description: Provide tools for management wind data observations.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.0)
